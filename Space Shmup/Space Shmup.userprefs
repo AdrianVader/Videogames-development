@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Space Mercenary\Assets\Scripts\Player.cs">
+    <Files>
+      <File FileName="..\Space Mercenary\Assets\Scripts\Utils.cs" Line="6" Column="83" />
+      <File FileName="..\Space Mercenary\Assets\Scripts\Player.cs" Line="101" Column="32" />
+      <File FileName="..\Space Mercenary\Assets\Scripts\Enemy.cs" Line="10" Column="28" />
+      <File FileName="..\Space Mercenary\Assets\Scripts\Projectile.cs" Line="39" Column="3" />
+      <File FileName="..\Space Mercenary\Assets\Scripts\Background.cs" Line="43" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
