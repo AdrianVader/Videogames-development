@@ -1,0 +1,28 @@
+<xml>
+	<enemy	time="1"		x="-7"		y="17"		type="Wing ship"	behaviour="BasicEnemyBehaviour"/>
+	<enemy	time="2"		x="0"		y="17"		type="Wing ship"	behaviour="BasicEnemyBehaviour"/>
+	<enemy	time="3"		x="7"		y="17"		type="Wing ship"	behaviour="BasicEnemyBehaviour"/>
+
+	<enemy	time="7"		x="-7"		y="17"		type="Tie ship"		behaviour="BasicEnemyBehaviour"/>
+	<enemy	time="8"		x="-3.5"	y="17"		type="Tie ship"		behaviour="BasicEnemyBehaviour"/>
+	<enemy	time="9"		x="0"		y="17"		type="Tie ship"		behaviour="BasicEnemyBehaviour"/>
+	<enemy	time="10"		x="3.5"		y="17"		type="Tie ship"		behaviour="BasicEnemyBehaviour"/>
+	<enemy	time="11"		x="7"		y="17"		type="Tie ship"		behaviour="BasicEnemyBehaviour"/>
+
+	<enemy	time="15"		x="-7"		y="17"		type="Cargo ship"	behaviour="BasicEnemyBehaviour"/>
+	<enemy	time="15"		x="7"		y="17"		type="Cargo ship"	behaviour="BasicEnemyBehaviour"/>
+
+	<enemy	time="20"		x="-7"		y="17"		type="Delta ship"	behaviour="RightDiagonalEnemyBehaviour"/>
+
+	<enemy	time="25"		x="7"		y="17"		type="Delta ship"	behaviour="LeftDiagonalEnemyBehaviour"/>
+
+	<enemy	time="30"		x="7"		y="17"		type="Delta ship"	behaviour="LeftDiagonalEnemyBehaviour"/>
+
+	<enemy	time="35"		x="-7"		y="17"		type="Delta ship"	behaviour="RightDiagonalEnemyBehaviour"/>
+
+	<enemy	time="40"		x="-7"		y="17"		type="Tie ship"		behaviour="BasicEnemyBehaviour"/>
+	<enemy	time="40"		x="7"		y="17"		type="Tie ship"		behaviour="BasicEnemyBehaviour"/>
+
+	<enemy	time="41"		x="-4"		y="17"		type="Delta ship"	behaviour="SideToSideEnemyBehaviour"/>
+
+</xml>

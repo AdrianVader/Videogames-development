@@ -1,0 +1,22 @@
+<xml>
+	<enemy	time="1"		x="-2"		y="17"		type="Wing ship"	behaviour="BasicEnemyBehaviour"/>
+	<enemy	time="1"		x="2"		y="17"		type="Wing ship"	behaviour="BasicEnemyBehaviour"/>
+
+	<enemy	time="7"		x="0"		y="17"		type="Tie ship"		behaviour="BasicEnemyBehaviour"/>
+	<enemy	time="7.5"		x="-2"		y="17"		type="Tie ship"		behaviour="BasicEnemyBehaviour"/>
+	<enemy	time="7.5"		x="2"		y="17"		type="Tie ship"		behaviour="BasicEnemyBehaviour"/>
+	
+	<enemy	time="16"		x="0"		y="17"		type="Cargo ship"	behaviour="LeftDiagonalEnemyBehaviour"/>
+
+	<enemy	time="20"		x="-7"		y="17"		type="Cargo ship"	behaviour="RightDiagonalEnemyBehaviour"/>
+
+	<enemy	time="28"		x="-5"		y="17"		type="Cargo ship"	behaviour="BasicEnemyBehaviour"/>
+	<enemy	time="28"		x="5"		y="17"		type="Cargo ship"	behaviour="BasicEnemyBehaviour"/>
+
+	<enemy	time="38"		x="7"		y="17"		type="Tie ship"		behaviour="LeftDiagonalEnemyBehaviour"/>
+	<enemy	time="40"		x="-7"		y="17"		type="Tie ship"		behaviour="RightDiagonalEnemyBehaviour"/>
+
+	<enemy	time="45"		x="-6"		y="17"		type="Cargo ship"	behaviour="SideToSideEnemyBehaviour"/>
+	<enemy	time="45"		x="3"		y="17"		type="Cargo ship"	behaviour="SideToSideEnemyBehaviour"/>
+
+</xml>

@@ -1,0 +1,37 @@
+<xml>
+	<enemy	time="1"		x="0"		y="17"		type="Falcon ship"	behaviour="BasicEnemyBehaviour"/>
+	
+	<enemy	time="4"		x="-7"		y="17"		type="Tie ship"		behaviour="RightDiagonalEnemyBehaviour"/>
+	<enemy	time="5"		x="7"		y="17"		type="Tie ship"		behaviour="LeftDiagonalEnemyBehaviour"/>
+	
+	<enemy	time="8"		x="-7"		y="17"		type="Delta ship"	behaviour="RightDiagonalEnemyBehaviour"/>
+	<enemy	time="9"		x="7"		y="17"		type="Delta ship"	behaviour="LeftDiagonalEnemyBehaviour"/>
+	
+	<enemy	time="12"		x="-5"		y="17"		type="Arc ship"		behaviour="SideToSideEnemyBehaviour"/>
+	<enemy	time="12"		x="0"		y="17"		type="Arc ship"		behaviour="SideToSideEnemyBehaviour"/>
+	
+	<enemy	time="16"		x="-3"		y="17"		type="Delta ship"	behaviour="SideToSideEnemyBehaviour"/>
+	<enemy	time="16"		x="-1"		y="17"		type="Delta ship"	behaviour="SideToSideEnemyBehaviour"/>
+	
+	<enemy	time="20"		x="-4"		y="17"		type="Falcon ship"	behaviour="SideToSideEnemyBehaviour"/>
+	<enemy	time="20"		x="1"		y="17"		type="Falcon ship"	behaviour="SideToSideEnemyBehaviour"/>
+	
+	<enemy	time="24"		x="-6"		y="17"		type="Wing ship"	behaviour="BasicEnemyBehaviour"/>
+	<enemy	time="24"		x="-2"		y="17"		type="Cargo ship"	behaviour="BasicEnemyBehaviour"/>
+	
+	<enemy	time="28"		x="2"		y="17"		type="Wing ship"	behaviour="BasicEnemyBehaviour"/>
+	<enemy	time="28"		x="6"		y="17"		type="Cargo ship"	behaviour="BasicEnemyBehaviour"/>
+	
+	<enemy	time="33"		x="-5"		y="17"		type="Falcon ship"	behaviour="BasicEnemyBehaviour"/>
+	<enemy	time="33"		x="5"		y="17"		type="Falcon ship"	behaviour="BasicEnemyBehaviour"/>
+	
+	<enemy	time="37"		x="-5"		y="17"		type="Delta ship"	behaviour="BasicEnemyBehaviour"/>
+	<enemy	time="37"		x="5"		y="17"		type="Delta ship"	behaviour="BasicEnemyBehaviour"/>
+	
+	<enemy	time="40"		x="-3"		y="17"		type="Arc ship"		behaviour="BasicEnemyBehaviour"/>
+	
+	<enemy	time="45"		x="-7"		y="17"		type="Delta ship"	behaviour="SideToSideEnemyBehaviour"/>
+	<enemy	time="45"		x="-3"		y="17"		type="Falcon ship"	behaviour="SideToSideEnemyBehaviour"/>
+	<enemy	time="45"		x="3"		y="17"		type="Arc ship"		behaviour="SideToSideEnemyBehaviour"/>
+	
+</xml>

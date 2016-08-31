@@ -1,0 +1,40 @@
+<xml>
+	<enemy	time="1"		x="0"		y="17"		type="Delta ship"	behaviour="BasicEnemyBehaviour"/>
+	
+	<enemy	time="2"		x="-2"		y="17"		type="Delta ship"	behaviour="BasicEnemyBehaviour"/>
+	<enemy	time="2"		x="2"		y="17"		type="Delta ship"	behaviour="BasicEnemyBehaviour"/>
+	
+	<enemy	time="5"		x="-7"		y="17"		type="Arc ship"		behaviour="RightDiagonalEnemyBehaviour"/>
+	<enemy	time="5"		x="-4"		y="17"		type="Arc ship"		behaviour="RightDiagonalEnemyBehaviour"/>
+	
+	<enemy	time="9"		x="7"		y="17"		type="Arc ship"		behaviour="LeftDiagonalEnemyBehaviour"/>
+	
+	<enemy	time="12"		x="-7"		y="17"		type="Delta ship"	behaviour="BasicEnemyBehaviour"/>
+	
+	<enemy	time="15"		x="-5"		y="17"		type="Delta ship"	behaviour="BasicEnemyBehaviour"/>
+	
+	<enemy	time="18"		x="-3"		y="17"		type="Delta ship"	behaviour="BasicEnemyBehaviour"/>
+	
+	<enemy	time="21"		x="0"		y="17"		type="Delta ship"	behaviour="BasicEnemyBehaviour"/>
+	
+	<enemy	time="23"		x="3"		y="17"		type="Delta ship"	behaviour="BasicEnemyBehaviour"/>
+	
+	<enemy	time="25"		x="5"		y="17"		type="Delta ship"	behaviour="BasicEnemyBehaviour"/>
+	
+	<enemy	time="27"		x="7"		y="17"		type="Delta ship"	behaviour="BasicEnemyBehaviour"/>
+	
+	<enemy	time="30"		x="0"		y="17"		type="Delta ship"	behaviour="RightDiagonalEnemyBehaviour"/>
+	
+	<enemy	time="33"		x="-7"		y="17"		type="Delta ship"	behaviour="RightDiagonalEnemyBehaviour"/>
+	
+	<enemy	time="36"		x="7"		y="17"		type="Delta ship"	behaviour="LeftDiagonalEnemyBehaviour"/>
+	
+	<enemy	time="38"		x="-4"		y="17"		type="Arc ship"		behaviour="BasicEnemyBehaviour"/>
+	<enemy	time="38"		x="4"		y="17"		type="Arc ship"		behaviour="BasicEnemyBehaviour"/>
+	
+	<enemy	time="40"		x="-3"		y="17"		type="Falcon ship"	behaviour="SideToSideEnemyBehaviour"/>
+	
+	<enemy	time="45"		x="-4"		y="17"		type="Falcon ship"	behaviour="SideToSideEnemyBehaviour"/>
+	<enemy	time="45"		x="1"		y="17"		type="Falcon ship"	behaviour="SideToSideEnemyBehaviour"/>
+	
+</xml>
